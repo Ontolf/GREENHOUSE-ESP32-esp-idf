@@ -1,0 +1,12 @@
+menu "Configuration of every part"
+    
+    config SensorInput
+        int "Sensor's pin to input TEMP/HUM"
+        range 0 36
+        default 4
+    config MoistureInput
+        int "Sensor's pin to input MOISTURE"
+        range 0 36
+        default 2
+    
+endmenu
