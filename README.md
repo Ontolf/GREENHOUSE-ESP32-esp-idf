@@ -19,5 +19,6 @@
 | Power Supply, 12V | - | - | 1 |
 | Steel Spring | Used to heat environment | 12V | 1 |
    
- **Drawing:**    
-![sads](https://user-images.githubusercontent.com/89953755/154033348-7e7eae01-876b-49c2-8281-48e50a1bb942.png)
+| **Drawing** |
+| :----: |
+| ![sads](https://user-images.githubusercontent.com/89953755/154033348-7e7eae01-876b-49c2-8281-48e50a1bb942.png) |
