@@ -2,7 +2,7 @@
    
    ![3141241](https://user-images.githubusercontent.com/89953755/154033279-e5020911-701d-4396-b2f8-6e6a07d29def.png)   
 
- **Simple greenhouse builded on esp-idf**  
+ **Simple greenhouse builded on esp-idf** 
    
 | **Name** | **Description** | **Voltage** | **Quantity** |
 |------|-------------|:-------:|:--------:|
