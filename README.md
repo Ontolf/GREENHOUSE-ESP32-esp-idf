@@ -2,7 +2,8 @@
    
    ![3141241](https://user-images.githubusercontent.com/89953755/154033279-e5020911-701d-4396-b2f8-6e6a07d29def.png)   
 
- **Simple fully automated greenhouse builded on esp-idf** 
+ **Simple fully automated greenhouse builded on esp-idf**  
+     System includes temperature and soil moisture control, and a small display which shows the environment state. Fan and Water pump allow to control humidity and moisture according to sensor’s measurement.
    
 | **Name** | **Description** | **Voltage** | **Quantity** |
 |------|-------------|:-------:|:--------:|
